@@ -5,11 +5,13 @@ Instituto Tecnologico de León
 Docente: Carlos Rafael Rojas Levy
 
 Integrantes del equipo:
+
 Torres Martinez Jorge Alexis
 Gutierrez Gonzalez Saul
 Hernandez Lopez Juan Martin
 
 Material utilizado:
+
 1 protoboard
 1 arduino UNO
 1 display lcd
