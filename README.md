@@ -2,7 +2,8 @@
 
 Instituto Tecnologico de León
 
-Docente: Carlos Rafael Rojas Levy
+Docente: 
+Carlos Rafael Rojas Levy
 
 Integrantes del equipo:
 
@@ -13,20 +14,32 @@ Hernandez Lopez Juan Martin
 Material utilizado:
 
 1 protoboard
+
 1 arduino UNO
+
 1 display lcd
+
 1 resistencia 2.2 kohms
+
 1 resistencia 330 ohms
+
 1 sensor de humedad DTH11
+
 1 sensor de temperatura
+
 1 potenciometro 10 kohms
+
 1 boton
+
 1 LDR
+
 Cables
 
 
 Programas utilizados:
-Arduino IDE
+
+Arduino IDE}
+
 Java Netbeans
 
 Librerias:
